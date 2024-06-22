@@ -49,16 +49,16 @@ function Footer() {
         </div>
         <div className="flex items-center justify-center pb-[100px]">
           <div className="w-[137px] h-[34px] bg-[#ffffff] flex items-center justify-evenly text-[#0355cc]">
-            <a href="/">
+            <a href="/inance">
               <FaFacebookF />
             </a>
-            <a href="/">
+            <a href="/inance">
               <FaTwitter />
             </a>
-            <a href="/">
+            <a href="/inance">
               <TfiYoutube />
             </a>
-            <a href="/">
+            <a href="/inance">
               <FaInstagram />
             </a>
           </div>

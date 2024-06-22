@@ -7,7 +7,7 @@ const navItem = [
   {
     name: "Home",
     id: 1,
-    Link: "/",
+    Link: "/inance",
   },
   {
     name: "About",
@@ -34,7 +34,10 @@ function Navbar() {
     <>
       <div className="h-[64px] flex items-center justify-between px-[30px] bg-[#D1E3FF]">
         <div>
-          <Link to="/" className="text-[24px] text-[#0355cc] font-semibold">
+          <Link
+            to="/inance"
+            className="text-[24px] text-[#0355cc] font-semibold"
+          >
             INANCE
           </Link>
         </div>

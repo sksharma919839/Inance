@@ -16,7 +16,7 @@ function Hero() {
             consequatur beatae, aspernatur culpa.
           </p>
           <a
-            href="/"
+            href="/inance"
             className="text-[#ffffff] text-[16px] border border-[#ff8a1d] bg-[#ff8a1d] py-[10px] sm:px-[45px] px-[30px] rounded-lg hover:bg-transparent hover:text-[#ff8a1d] transition-all duration-500"
           >
             CONTACT US

@@ -24,7 +24,7 @@ function Service() {
             randomised words which dont look even slightly
           </p>
           <Link
-            to="/"
+            to="/inance"
             className="text-[16px] text-[#ffffff] bg-[#ff8a1d] rounded-sm py-[10px] px-[45px] hover:text-[#ff8a1d] hover:bg-transparent border border-[#ff8a1d]"
           >
             READ MORE

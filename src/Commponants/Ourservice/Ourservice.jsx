@@ -53,7 +53,7 @@ function Ourservice() {
         </div>
         <div className="flex items-center justify-center">
           <Link
-            to="/"
+            to="/inance"
             className="text-[16px] text-[#ffffff] bg-[#0355cc] py-[10px] px-[45px] hover:text-[#0355cc] hover:bg-transparent border border-[#0355cc]"
           >
             READ MORE

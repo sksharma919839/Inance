@@ -19,7 +19,7 @@ function About() {
             suscipit.
           </p>
           <Link
-            to="/"
+            to="/about"
             className="text-[16px] text-[#ffffff] bg-[#0355cc] py-[10px] px-[45px] hover:text-[#0355cc] hover:bg-transparent border border-[#0355cc]"
           >
             Read More
